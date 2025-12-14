@@ -1,4 +1,4 @@
-# Pengyue Sun's Game Design Literature Review
+# My Game Design Literature Review
 
 ## About Me
 
