@@ -1,4 +1,4 @@
-🎮 Genshin Impact
+## 🎮 Genshin Impact
 Design Focus
 
 Large-scale open-world combat designed for a character-collection (gacha) game.
