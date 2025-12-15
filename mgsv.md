@@ -19,9 +19,11 @@ including lethal weapons, non-lethal options, environmental interactions,
 and deliberately humorous distraction items.
 These tools support multiple playstyles without explicitly labeling any as optimal.
 
-Enemy AI operates within a persistent system.
+Enemy AI operates within a persistent revenge system.
 Over time, enemies adapt their equipment and behavior based on observed player tendencies,
-such as increased helmet usage in response to frequent headshots.
+such as increased helmet usage in response to frequent headshots.[^1]
+
+[^1]: Detailed mechanics are documented on the MGSV Wiki: https://metalgear.fandom.com/wiki/Enemy_preparedness
 
 ![Enemy adaptation: increased helmet usage](images/mgsv_enemy_helmet.jpg)
 
