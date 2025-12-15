@@ -23,6 +23,10 @@ Enemy AI operates within a persistent system.
 Over time, enemies adapt their equipment and behavior based on observed player tendencies,
 such as increased helmet usage in response to frequent headshots.
 
+![Enemy adaptation: increased helmet usage](images/mgsv_enemy_helmet.jpg)
+
+*As enemies adapt to repeated headshots, equipment changes reinforce long-term consequences.*
+
 ---
 
 ## Design Strengths
