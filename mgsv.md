@@ -27,7 +27,9 @@ such as increased helmet usage in response to frequent headshots, and increased 
 
 ![Enemy adaptation: increased helmet usage](images/mgsv_enemy_helmet.jpg)
 
-*As enemies adapt to repeated headshots, equipment changes reinforce long-term consequences.*
+*As enemies adapt to repeated headshots, equipment changes reinforce long-term consequences.*[^2]
+
+[^2]: Image source: https://steamcommunity.com/sharedfiles/filedetails/?id=1285241667
 
 ---
 
