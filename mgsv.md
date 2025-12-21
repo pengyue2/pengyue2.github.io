@@ -21,7 +21,7 @@ These tools support multiple playstyles without explicitly labeling any as optim
 
 Enemy AI operates within a persistent revenge system.
 Over time, enemies adapt their equipment and behavior based on observed player tendencies,
-such as increased helmet usage in response to frequent headshots.[^1]
+such as increased helmet usage in response to frequent headshots, and increased nightvision guggle usage in response to frequent mission time choice at night.[^1]
 
 [^1]: Detailed mechanics are documented on the MGSV Wiki: https://metalgear.fandom.com/wiki/Revenge_System_(enemy_preparedness)
 
