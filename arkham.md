@@ -26,6 +26,7 @@ while encouraging players to experiment with different stealth approaches.
 <img src="images/bak_tools.jpeg" width="600">
 
 *Bat gadget selection interface in-game*
+([Image source: BATMAN-ARKHAM.com](https://www.batman-arkham.com))
 
 By reducing information uncertainty, the game shifts difficulty away from memorization
 and toward tactical decision-making.
@@ -49,6 +50,7 @@ deploying smoke grenades, engaging briefly, or grappling away — allowing recov
 <img src="images/bak_timing.jpeg" width="600">
 
 *Player detected during a stealth takedown*
+([Image source: BATMAN-ARKHAM.com](https://www.batman-arkham.com))
 
 These mechanics allow players to make mistakes without collapsing the stealth experience,
 maintaining tension while reducing frustration.
@@ -62,6 +64,7 @@ Enemies also react strongly to player presence, reinforcing fear as a readable a
 <img src="images/bak_sentry_gun.jpeg" width="600">
 
 *Enemies using a sentry gun to restrict player movement*
+([Image source: BATMAN-ARKHAM.com](https://www.batman-arkham.com))
 
 This combination discourages repetitive strategies while reinforcing the fantasy of controlling the battlefield.
 
