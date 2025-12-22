@@ -24,7 +24,9 @@ Elemental reactions provide a clear risk–reward structure: optimal performance
 
 This design is particularly effective for a live-service gacha game, where frequent character updates must integrate smoothly into an existing system.
 
-# Design Insights
+---
+
+## Design Insights
 
 Genshin Impact demonstrates how combat depth can emerge from system interactions rather than mechanical difficulty.
 By shifting complexity toward team composition and timing, the game remains accessible while still rewarding system mastery.
