@@ -49,3 +49,5 @@ This experience translates naturally to game design problems such as:
 - [Batman: Arkham Series – Stealth and Recovery Design](arkham.md)
 - [Genshin Impact – Open-world Combat Systems](genshin.md)
 - [Metal Gear Solid V – Stealth–Combat Integration](mgsv.md)
+- [Varsapura – Speculative Combat Design Notes](varsapura.md)
+
