@@ -12,56 +12,92 @@ but as two ends of a continuous spectrum shaped by player choice and systemic fe
 
 MGSV places strong emphasis on mission preparation.
 Before deployment, players select companions, equipment, insertion methods, and loadouts,
-establishing intent even before gameplay begins.
+establishing intent and constraints before gameplay begins.
+
+<img src="images/mgsv_preparation.jpeg" width="600">
+
+*Mission preparation interface before deployment.*
 
 During missions, players are given access to a wide range of tools,
-including lethal weapons, non-lethal options, environmental interactions,
-and deliberately humorous distraction items.
+including lethal and non-lethal weapons, environmental interactions,
+and deliberately playful distraction items.
 These tools support multiple playstyles without explicitly labeling any as optimal.
 
-Enemy AI operates within a persistent revenge system.
-Over time, enemies adapt their equipment and behavior based on observed player tendencies,
-such as increased helmet usage in response to frequent headshots, and increased nightvision guggle usage in response to frequent mission time choice at night.[^1]
+Information acquisition is deliberately fragmented.
+Only minimal intel is provided before deployment,
+requiring players to actively gather information through binocular scouting,
+enemy interrogation, and support from the intelligence team.
+Critical details are also embedded subtly in mission descriptions and environmental storytelling,
+reinforcing uncertainty as a core part of the experience.
 
-[^1]: Detailed mechanics are documented on the MGSV Wiki: https://metalgear.fandom.com/wiki/Revenge_System_(enemy_preparedness)
+<img src="images/mgsv_binocular.jpeg" width="600">
 
-![Enemy adaptation: increased helmet usage](images/mgsv_enemy_helmet.jpg)
+*Reconnaissance through binocular scouting.*
 
-*As enemies adapt to repeated headshots, equipment changes reinforce long-term consequences.*[^2]
-
-[^2]: Image source: https://steamcommunity.com/sharedfiles/filedetails/?id=1285241667
+This design frames each mission as an information problem as much as a combat encounter.
 
 ---
 
 ## Design Strengths
 
 One of MGSV’s strongest design achievements is its **reactive enemy ecosystem**.
-Enemy adaptation creates a sense of long-term consequence,
-transforming repeated player behavior into meaningful world responses.
+Enemy behavior is readable and grounded in player intuition:
+guards signal alerts with flashlights, surrender when threatened from behind,
+and communicate via radio when detecting suspicious activity.
+
+These immediate reactions provide clear, diegetic feedback,
+allowing players to understand detection states without relying on abstract UI.
+
+The mission sandbox functions as a persistent war zone.
+Enemy patrol patterns shift over time based on mission context and player actions,
+preventing encounters from becoming static or fully solvable through memorization.
+
+More importantly, enemy AI operates within a long-term adaptation system.
+Repeated player behaviors lead to meaningful systemic responses,
+such as increased helmet usage after frequent headshots
+or expanded night-vision equipment following repeated night missions.[^1]
+
+[^1]: Detailed mechanics are documented on the MGSV Wiki: https://metalgear.fandom.com/wiki/Revenge_System_(enemy_preparedness)
+
+<img src="images/mgsv_enemy_helmet.jpg" width="600">
+
+*Enemy equipment adapts in response to repeated headshots.*  
+([Image source](https://steamcommunity.com/sharedfiles/filedetails/?id=1285241667))
 
 Classic CQC mechanics provide reliable close-range control,
 allowing stealth encounters to degrade naturally into combat rather than collapse into failure.
 Because gunplay is mechanically solid, forced combat remains engaging instead of punitive.
 
-Mission preparation sequences — including buddy selection and deployment animations —
-reinforce player agency and emotional investment before each operation,
-strengthening the link between planning and execution.
+MGSV further incentivizes non-lethal play through the Fulton recovery system.
+Captured enemies and resources directly contribute to base development,
+unlocking higher-tier equipment and support options.
+
+<img src="images/mgsv_rd.jpeg" width="600">
+
+*Recovered personnel can be reassigned to different base departments.*
+
+This creates a feedback loop where tactical restraint is mechanically rewarded,
+linking moment-to-moment decisions with long-term progression.
 
 ---
 
 ## Stealth–Combat Transition Design
 
 MGSV excels at handling stealth failure.
-Detection does not represent a binary success–failure state,
-but rather a transition point where player options shift.
+Detection rarely represents a binary success–failure state,
+but instead marks a transition point where player options shift.
 
-Players can choose to:
-- Recover stealth through repositioning or distraction
+Players may choose to:
+- Recover stealth through repositioning or non-lethal takedowns
 - Escalate into open combat
 - Blend both approaches dynamically
 
 This design preserves tension while avoiding frustration,
 encouraging improvisation rather than strict optimization.
+
+<img src="images/mgsv_slow_motion.jpeg" width="600">
+
+*Reflex Mode briefly slows time when the player is spotted.*
 
 ---
 
@@ -69,7 +105,7 @@ encouraging improvisation rather than strict optimization.
 
 MGSV demonstrates how **systemic AI adaptation** can reinforce player identity.
 By responding to player habits rather than scripted triggers,
-the game allows players to feel ownership over their playstyle.
+the game allows players to feel ownership over their chosen playstyle.
 
 More broadly, MGSV shows that strong stealth–combat integration
 relies less on perfect execution and more on **forgiving transitions**,
