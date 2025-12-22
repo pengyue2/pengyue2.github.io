@@ -11,8 +11,7 @@ Players are encouraged to rotate characters frequently, triggering elemental int
 
 <img src="images/gi_element.jpeg" width="600">
 
-*Summary of element reactions at version 4.2*  
-([Image source](https://www.bilibili.com/video/BV1QN4y1B76W))
+*Summary of element reactions at version 4.2* ([Image source](https://www.bilibili.com/video/BV1QN4y1B76W))
 
 #Design Strengths
 
