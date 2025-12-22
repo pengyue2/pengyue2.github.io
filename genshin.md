@@ -1,10 +1,12 @@
 ## 🎮 Genshin Impact
 
-#Design Focus
+# Design Focus
 
 Large-scale open-world combat designed for a character-collection (gacha) game.
 
-#Core Mechanics
+---
+
+# Core Mechanics
 
 Genshin Impact centers its combat system around four-character team switching and elemental reactions.
 Players are encouraged to rotate characters frequently, triggering elemental interactions that define both damage output and crowd control.
@@ -13,14 +15,16 @@ Players are encouraged to rotate characters frequently, triggering elemental int
 
 *Summary of element reactions at version 4.2* ([Image source](https://www.bilibili.com/video/BV1QN4y1B76W))
 
-#Design Strengths
+---
+
+# Design Strengths
 
 The rapid character-switching mechanic allows for expressive combat without overwhelming mechanical complexity.
 Elemental reactions provide a clear risk–reward structure: optimal performance requires planning team composition rather than execution-heavy inputs.
 
 This design is particularly effective for a live-service gacha game, where frequent character updates must integrate smoothly into an existing system.
 
-#Design Insights
+# Design Insights
 
 Genshin Impact demonstrates how combat depth can emerge from system interactions rather than mechanical difficulty.
 By shifting complexity toward team composition and timing, the game remains accessible while still rewarding system mastery.
