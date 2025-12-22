@@ -14,8 +14,7 @@ each paired with distinct stealth actions and takedowns.
 
 <img src="images/bak_map.jpeg" width="600">
 
-*Vantage points, ceiling access, sewer gates, and destructible items are all highlighted in Detective Mode*  
-([Image source](https://www.batman-arkham.com))
+*Vantage points, ceiling access, sewer gates, and destructible items are all highlighted in Detective Mode* ([Image source](https://www.batman-arkham.com))
 
 This spatial variety prevents stealth encounters from becoming single-solution puzzles
 and instead rewards situational awareness and environmental reading.
