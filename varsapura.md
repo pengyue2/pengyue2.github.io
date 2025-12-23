@@ -95,7 +95,7 @@ From a combat design perspective, I am particularly interested in exploring:
 
   <img src="images/v_stealth.jpeg" width="600">
 
-  *Stealth indicators suggest graded detection states rather than binary failure.*
+  *Stealth indicators above suggest current state.*
 
 - How enemy behavior and feedback can remain readable
   when multiple player characters and abilities are active simultaneously
