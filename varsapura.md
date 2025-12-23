@@ -1,4 +1,4 @@
-# 👮‍♀️Varsapura – Speculative Combat Design Notes
+# 👮‍♀️ Varsapura – Speculative Combat Design Notes
 
 ## Context
 
@@ -20,10 +20,11 @@ From the gameplay showcase, *Varsapura* appears to combine:
 
 <img src="images/v_color.jpeg" width="600">
 
-*Impressive scenario and character design*
+*Strong lighting and color contrast support readability in dense urban scenes.*
 
 These elements suggest a design goal of maintaining fast-paced action
-while preserving clarity in a visually complex environment.
+while preserving clarity in a visually complex environment,
+especially under frequent character switching.
 
 ---
 
@@ -34,18 +35,23 @@ Integrating team-based combat into an urban open world introduces several potent
 - **Combat Readability**  
   Dense environments and verticality can obscure enemy intent, attack timing,
   and threat prioritization, especially during character switching.
-  
+
   <img src="images/v_combat.jpeg" width="600">
 
-  *A snapshot of getting attcked from multiple direction at the same time*
+  *Multiple simultaneous threats place high demand on visual and audio feedback.*
+
+  This raises questions about how threat signaling and damage feedback scale
+  when several characters and abilities are active at once.
 
 - **Spatial Awareness**  
   Urban layouts increase the likelihood of off-screen threats,
-  making feedback and audio-visual cues critical for player decision-making.
+  making audio cues and environmental indicators critical for player decision-making.
 
   <img src="images/v_object.jpeg" width="600">
 
-  *Files blocking the sight and limiting enemy movement*
+  *Environmental objects block sightlines while shaping enemy movement.*
+
+  Such layouts suggest a reliance on indirect feedback rather than direct line-of-sight awareness.
 
 - **Stealth–Combat Transitions**  
   Light stealth segments raise questions about how detection states escalate
@@ -53,15 +59,19 @@ Integrating team-based combat into an urban open world introduces several potent
 
   <img src="images/v_assassin.jpeg" width="600">
 
-  *Assassinate button appears during after combat begins, indication of an interesting design?*
+  *Assassination prompts appearing after combat begins suggest flexible state boundaries.*
 
-- **Mission Transportation Design**
-  It appears that car driving might be the major transportation method connecting position to postion.
-  It also raises question about any car-related functionality enriching mission and open-world experience, for example gadget inventory or ability to go through buildings.
-  
+  This implies a potential design direction where stealth actions remain viable
+  even after partial detection.
+
+- **Mission Transportation Design**  
+  Vehicle traversal appears to be a primary method of connecting mission locations,
+  raising questions about how transportation systems might integrate with combat preparation
+  rather than serving purely as movement.
+
   <img src="images/v_car.jpeg" width="600">
 
-  *Cool burning tires trick*
+  *Vehicle usage may provide opportunities for pre-combat setup or environmental interaction.*
 
 These challenges are common in open-world action games,
 but become more pronounced when layered with fast character swapping and live-service systems.
@@ -72,36 +82,37 @@ but become more pronounced when layered with fast character swapping and live-se
 
 From a combat design perspective, I am particularly interested in exploring:
 
-- How players are given the time and tools to prepare for the upcoming mission, especially for live-service gacha game,
-  players usually have multiple teams for different tasks.
+- How players are given time and tools to prepare for upcoming encounters,
+  especially in a live-service gacha context where players often maintain multiple teams
+  for different mission types
 
   <img src="images/v_bird.jpeg" width="600">
 
-  *Bird's eye view before stealth*
+  *Overhead views may support planning and spatial understanding before engagement.*
 
 - How stealth failure can transition into combat in a way that feels intentional,
   allowing players to recover, reposition, or escalate dynamically
 
   <img src="images/v_stealth.jpeg" width="600">
 
-  *Stealth indicator on top*
+  *Stealth indicators suggest graded detection states rather than binary failure.*
 
 - How enemy behavior and feedback can remain readable
-  even when multiple player characters and abilities are active simultaneously
+  when multiple player characters and abilities are active simultaneously
 
   <img src="images/v_impact.jpeg" width="600">
 
-  *Different damage type indicator - IMPACT*
+  *Clear damage-type indicators support moment-to-moment combat readability.*
 
-- How systemic enemy responses could support player experimentation
-  without overly punishing preferred playstyles
+- How systemic enemy responses might support player experimentation
+  without disproportionately punishing preferred playstyles
 
   <img src="images/v_float.jpeg" width="600">
 
-  *Enemy floating due to character skill*
+  *Crowd-control effects highlight opportunities for expressive ability usage.*
 
-- How character-switching mechanism could enrich the experience of stealth gameplay.
-  Currently it appears that only one character could do stealth attach at a time. 
+- How character-switching mechanics could enrich stealth gameplay,
+  particularly if stealth actions are shared or sequenced across characters
 
 These directions align closely with my broader interest in
 forgiving transitions, readable feedback loops, and robust systemic design.
